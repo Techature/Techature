@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1> Bio of Sahana ✨ W-I-P </h1>
 
 <!--
 **Techature/Techature** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br> <img src="https://uploads.scratch.mit.edu/get_image/user/172621725_60x60.png" alt="emoji" width = "100"> 
+<br> <p> Hi all! I'm Techature, the one who always explores to learn something new. You know I adore nature, so I publish projects which are related to this for educational and entertainment purposes. Thanks for now. </p> <br> જ⁀➴ She/her child <br> <br> જ⁀➴ Ask me about... Suggest me topics for my projects. <br> <br> જ⁀➴ How to reach me... Click on the image below and use the comment feature. Mention "github:" at the start of the comment so that I know it's for this thing. <br> <a href="https://scratch.mit.edu/projects/1321925848/">
+  <img src="https://cdn2.scratch.mit.edu/get_image/project/1321925848_282x210.png" alt="Chatroom" width = 279>
