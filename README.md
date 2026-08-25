@@ -1,4 +1,4 @@
-<h1> Bio of Sahana ✨ W-I-P </h1>
+<h1> About Techature ✨ W-I-P </h1>
 
 <!--
 **Techature/Techature** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br> <img src="https://uploads.scratch.mit.edu/get_image/user/172621725_60x60.png" alt="emoji" width = "100"> 
+<br> <img src="https://www.image2url.com/r2/default/images/1787679717914-bd03bb35-3143-45d3-aa60-d343261b2e45.png" alt="Welcome!" width = "1000"> 
 <br> <p> Hi! I'm Techature, the one who always explores to learn something new. You know I adore nature, so I publish projects which are related to this for educational and entertainment purposes. </p> <br> જ⁀➴ She/her child <br> <br> જ⁀➴ Loves SVGs (credit: svgrepo) <br> <br> <img src="https://www.svgrepo.com/show/530619/polaroid.svg" alt="Pink Polaroid SVG" width="100" height="100">
- <br> જ⁀➴ Ask me about... Suggest me topics for my projects. <br> <br> જ⁀➴ How to reach me... Click on the image below and use the comment feature. Mention "github:" at the start of the comment so that I know it's for this thing. <br> 
+ <br> જ⁀➴ Ask me about... Suggest me topics for my projects. <br> <br> જ⁀➴ How to reach me... Click on the image below and use the comment feature. Mention "github:" at the start of the comment so that I know it's for this thing. (credit: Wordpress) <br> 
 <a href="https://scratch.mit.edu/projects/1321925848/">
-  <img src="https://cdn2.scratch.mit.edu/get_image/project/1321925848_282x210.png" alt="Chatroom" width = 279> </a> <br> <br> <br> <p>As I'm just a kid, there'll be a delay of every project I make. See you! 💞</p>
+  <img src="https://ps.w.org/click-to-chat-for-whatsapp/assets/icon-256x256.gif?rev=2892731" alt="Chatroom" width = 279> </a> <br> <br> <br> <p>As I'm just a kid, there'll be a delay of every project I make. See you! 💞</p>
