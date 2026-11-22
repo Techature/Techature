@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 <br> <img src="https://www.image2url.com/r2/default/images/1787679717914-bd03bb35-3143-45d3-aa60-d343261b2e45.png" alt="Welcome!" width = "1000"> 
 <br> <p> Hi! I'm Techature, the one who always explores to learn something new. You know I adore nature, so I publish projects which are related to this for educational and entertainment purposes. </p> <br> જ⁀➴ She/her child <br> <br> જ⁀➴ Loves SVGs (credit: svgrepo) <br> <br> <img src="https://www.svgrepo.com/show/530619/polaroid.svg" alt="Pink Polaroid SVG" width="100" height="100">
- <br> જ⁀➴ Ask me about... Suggest me topics for my projects. <br> <br> જ⁀➴ How to reach me... Click on the image below and use the comment feature. Mention "github:" at the start of the comment so that I know it's for this thing. (credit: Wordpress) <br> 
-<a href="https://scratch.mit.edu/projects/1321925848/">
+ <br> જ⁀➴ Ask me about... Suggest me topics for my projects. <br> <br> જ⁀➴ How to reach me... Click on the image below and email me there. Mention "github:" at the start of the subject so that I know it's for message related to Github. (credit: Wordpress) <br> 
+<a href="sahana.aravind15@gmail.com">
   <img src="https://ps.w.org/click-to-chat-for-whatsapp/assets/icon-256x256.gif?rev=2892731" alt="Chatroom" width = 279> </a> <br> <br> <br> <p>As I'm just a kid, there'll be a delay of every project I make. See you! 💞</p>
